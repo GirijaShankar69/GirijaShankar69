@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Profession] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Girija</h1>
+<h3 align="center">A CyberSecurity enthusiast and a future Dev from Cuttack</h3>
 
 <p align="center">
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/girija-shankar-sahoo-9a6085275/)">
@@ -18,6 +18,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirijaShankar69" alt="mystreak">
+</p>
+
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </p>
 
 <p align="center">
