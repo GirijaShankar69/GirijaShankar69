@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_banner_image_url" alt="Banner Image">
+  <img src="[your_banner_image_url](https://media.licdn.com/dms/image/v2/D4D16AQFWthCWwehGiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724340072074?e=1738195200&v=beta&t=CMMcnZhFb5DBN18R-sZkLVWpaWutLvX9iGt71ikEtzE)" alt="Banner Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
