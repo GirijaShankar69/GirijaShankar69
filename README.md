@@ -23,8 +23,8 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="[Java](https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg)" alt="Java" width="60" height="60"/>
-  <img src="[Python](https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg)" alt="Python" width="60" height="60"/>
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="60" height="60"/>
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="60" height="60"/>
 </p>
 
 ### My Skills
