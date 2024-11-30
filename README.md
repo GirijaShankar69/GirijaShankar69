@@ -20,10 +20,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirijaShankar69" alt="mystreak">
 </p>
 
+## 🛠️ Languages and Tools
+
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </p>
+
+### My Skills
+- **Java**: Proficient in object-oriented programming, data structures, and algorithms. Experience with frameworks like Spring and Hibernate.
+- **Python**: Skilled in scripting and automation.
 
 <p align="center">
   ⭐️ From [GirijaShankar69](https://github.com/GirijaShankar69)
