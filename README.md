@@ -23,8 +23,12 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="60" height="60"/>
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="60" height="60"/>
+  <a href="https://www.java.com">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java Badge"/>
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
 </p>
 
 ### My Skills
